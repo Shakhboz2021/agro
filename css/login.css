@@ -1,0 +1,37 @@
+.check-info-parent {
+    width: 100%;
+    text-align: center;
+}
+
+.check-info {
+    padding: 8px;
+    border: 1px;
+    border-radius: .25rem;
+}
+#innInfo {
+
+}
+
+
+.myModal {
+    padding: 20px;
+}
+
+.myModal .title {
+    margin: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.myModal .checkButton {
+    border-right: 1px;
+    border-radius: 0.25rem;
+    margin: 20px 0px;
+    padding: 8px;
+}
+.captcha {
+    padding: 8px;
+    font-size: 25px;
+    background: #e1e1e1;
+    margin-top: 15px;
+ }
